@@ -1,2 +1,2 @@
-# faizhdr.github.io
+# resume
 Membuat portfolio menggunakan HTML
